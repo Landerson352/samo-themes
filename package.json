@@ -1,0 +1,10 @@
+{
+  "name": "landerson352-samo-themes",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Landerson352/samo.git"
+  },
+  "author": "Lincoln Anderson",
+  "license": "MIT"
+}
